@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 Women do not code, I am in fact, not real.
-
-![github stats](https://github-readme-stats.vercel.app/api?username=rinlovesyou&theme=radical&show_icons=true&hide_border=true)
